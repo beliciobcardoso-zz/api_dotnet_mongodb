@@ -1,0 +1,75 @@
+D:\DEV\Estudos com CSharp e .Net\DotNetApi\bin\Debug\net5.0\appsettings.json
+D:\DEV\Estudos com CSharp e .Net\DotNetApi\bin\Debug\net5.0\DotNetApi.exe
+D:\DEV\Estudos com CSharp e .Net\DotNetApi\bin\Debug\net5.0\DotNetApi.deps.json
+D:\DEV\Estudos com CSharp e .Net\DotNetApi\bin\Debug\net5.0\DotNetApi.runtimeconfig.json
+D:\DEV\Estudos com CSharp e .Net\DotNetApi\bin\Debug\net5.0\DotNetApi.runtimeconfig.dev.json
+D:\DEV\Estudos com CSharp e .Net\DotNetApi\bin\Debug\net5.0\DotNetApi.dll
+D:\DEV\Estudos com CSharp e .Net\DotNetApi\bin\Debug\net5.0\ref\DotNetApi.dll
+D:\DEV\Estudos com CSharp e .Net\DotNetApi\bin\Debug\net5.0\DotNetApi.pdb
+D:\DEV\Estudos com CSharp e .Net\DotNetApi\bin\Debug\net5.0\DnsClient.dll
+D:\DEV\Estudos com CSharp e .Net\DotNetApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\DEV\Estudos com CSharp e .Net\DotNetApi\bin\Debug\net5.0\MongoDB.Bson.dll
+D:\DEV\Estudos com CSharp e .Net\DotNetApi\bin\Debug\net5.0\MongoDB.Driver.dll
+D:\DEV\Estudos com CSharp e .Net\DotNetApi\bin\Debug\net5.0\MongoDB.Driver.Core.dll
+D:\DEV\Estudos com CSharp e .Net\DotNetApi\bin\Debug\net5.0\MongoDB.Libmongocrypt.dll
+D:\DEV\Estudos com CSharp e .Net\DotNetApi\bin\Debug\net5.0\SharpCompress.dll
+D:\DEV\Estudos com CSharp e .Net\DotNetApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\DEV\Estudos com CSharp e .Net\DotNetApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\DEV\Estudos com CSharp e .Net\DotNetApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\DEV\Estudos com CSharp e .Net\DotNetApi\bin\Debug\net5.0\runtimes\win\native\libzstd.dll
+D:\DEV\Estudos com CSharp e .Net\DotNetApi\bin\Debug\net5.0\runtimes\win\native\snappy32.dll
+D:\DEV\Estudos com CSharp e .Net\DotNetApi\bin\Debug\net5.0\runtimes\win\native\snappy64.dll
+D:\DEV\Estudos com CSharp e .Net\DotNetApi\bin\Debug\net5.0\runtimes\linux\native\libmongocrypt.so
+D:\DEV\Estudos com CSharp e .Net\DotNetApi\bin\Debug\net5.0\runtimes\osx\native\libmongocrypt.dylib
+D:\DEV\Estudos com CSharp e .Net\DotNetApi\bin\Debug\net5.0\runtimes\win\native\mongocrypt.dll
+D:\DEV\Estudos com CSharp e .Net\DotNetApi\obj\Debug\net5.0\DotNetApi.csprojAssemblyReference.cache
+D:\DEV\Estudos com CSharp e .Net\DotNetApi\obj\Debug\net5.0\DotNetApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\DEV\Estudos com CSharp e .Net\DotNetApi\obj\Debug\net5.0\DotNetApi.AssemblyInfoInputs.cache
+D:\DEV\Estudos com CSharp e .Net\DotNetApi\obj\Debug\net5.0\DotNetApi.AssemblyInfo.cs
+D:\DEV\Estudos com CSharp e .Net\DotNetApi\obj\Debug\net5.0\DotNetApi.csproj.CoreCompileInputs.cache
+D:\DEV\Estudos com CSharp e .Net\DotNetApi\obj\Debug\net5.0\DotNetApi.MvcApplicationPartsAssemblyInfo.cs
+D:\DEV\Estudos com CSharp e .Net\DotNetApi\obj\Debug\net5.0\DotNetApi.MvcApplicationPartsAssemblyInfo.cache
+D:\DEV\Estudos com CSharp e .Net\DotNetApi\obj\Debug\net5.0\staticwebassets\DotNetApi.StaticWebAssets.Manifest.cache
+D:\DEV\Estudos com CSharp e .Net\DotNetApi\obj\Debug\net5.0\staticwebassets\DotNetApi.StaticWebAssets.xml
+D:\DEV\Estudos com CSharp e .Net\DotNetApi\obj\Debug\net5.0\scopedcss\bundle\DotNetApi.styles.css
+D:\DEV\Estudos com CSharp e .Net\DotNetApi\obj\Debug\net5.0\DotNetApi.RazorTargetAssemblyInfo.cache
+D:\DEV\Estudos com CSharp e .Net\DotNetApi\obj\Debug\net5.0\DotNetApi.csproj.CopyComplete
+D:\DEV\Estudos com CSharp e .Net\DotNetApi\obj\Debug\net5.0\DotNetApi.dll
+D:\DEV\Estudos com CSharp e .Net\DotNetApi\obj\Debug\net5.0\ref\DotNetApi.dll
+D:\DEV\Estudos com CSharp e .Net\DotNetApi\obj\Debug\net5.0\DotNetApi.pdb
+D:\DEV\Estudos com CSharp e .Net\DotNetApi\obj\Debug\net5.0\DotNetApi.genruntimeconfig.cache
+D:\DEV\Estudos_com_CSharp_e_DotNet\DotNetApi\bin\Debug\net5.0\appsettings.json
+D:\DEV\Estudos_com_CSharp_e_DotNet\DotNetApi\bin\Debug\net5.0\DotNetApi.exe
+D:\DEV\Estudos_com_CSharp_e_DotNet\DotNetApi\bin\Debug\net5.0\DotNetApi.deps.json
+D:\DEV\Estudos_com_CSharp_e_DotNet\DotNetApi\bin\Debug\net5.0\DotNetApi.runtimeconfig.json
+D:\DEV\Estudos_com_CSharp_e_DotNet\DotNetApi\bin\Debug\net5.0\DotNetApi.runtimeconfig.dev.json
+D:\DEV\Estudos_com_CSharp_e_DotNet\DotNetApi\bin\Debug\net5.0\DotNetApi.dll
+D:\DEV\Estudos_com_CSharp_e_DotNet\DotNetApi\bin\Debug\net5.0\ref\DotNetApi.dll
+D:\DEV\Estudos_com_CSharp_e_DotNet\DotNetApi\bin\Debug\net5.0\DotNetApi.pdb
+D:\DEV\Estudos_com_CSharp_e_DotNet\DotNetApi\bin\Debug\net5.0\DnsClient.dll
+D:\DEV\Estudos_com_CSharp_e_DotNet\DotNetApi\bin\Debug\net5.0\MongoDB.Bson.dll
+D:\DEV\Estudos_com_CSharp_e_DotNet\DotNetApi\bin\Debug\net5.0\MongoDB.Driver.dll
+D:\DEV\Estudos_com_CSharp_e_DotNet\DotNetApi\bin\Debug\net5.0\MongoDB.Driver.Core.dll
+D:\DEV\Estudos_com_CSharp_e_DotNet\DotNetApi\bin\Debug\net5.0\MongoDB.Libmongocrypt.dll
+D:\DEV\Estudos_com_CSharp_e_DotNet\DotNetApi\bin\Debug\net5.0\SharpCompress.dll
+D:\DEV\Estudos_com_CSharp_e_DotNet\DotNetApi\bin\Debug\net5.0\runtimes\win\native\libzstd.dll
+D:\DEV\Estudos_com_CSharp_e_DotNet\DotNetApi\bin\Debug\net5.0\runtimes\win\native\snappy32.dll
+D:\DEV\Estudos_com_CSharp_e_DotNet\DotNetApi\bin\Debug\net5.0\runtimes\win\native\snappy64.dll
+D:\DEV\Estudos_com_CSharp_e_DotNet\DotNetApi\bin\Debug\net5.0\runtimes\linux\native\libmongocrypt.so
+D:\DEV\Estudos_com_CSharp_e_DotNet\DotNetApi\bin\Debug\net5.0\runtimes\osx\native\libmongocrypt.dylib
+D:\DEV\Estudos_com_CSharp_e_DotNet\DotNetApi\bin\Debug\net5.0\runtimes\win\native\mongocrypt.dll
+D:\DEV\Estudos_com_CSharp_e_DotNet\DotNetApi\obj\Debug\net5.0\DotNetApi.csprojAssemblyReference.cache
+D:\DEV\Estudos_com_CSharp_e_DotNet\DotNetApi\obj\Debug\net5.0\DotNetApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\DEV\Estudos_com_CSharp_e_DotNet\DotNetApi\obj\Debug\net5.0\DotNetApi.AssemblyInfoInputs.cache
+D:\DEV\Estudos_com_CSharp_e_DotNet\DotNetApi\obj\Debug\net5.0\DotNetApi.AssemblyInfo.cs
+D:\DEV\Estudos_com_CSharp_e_DotNet\DotNetApi\obj\Debug\net5.0\DotNetApi.csproj.CoreCompileInputs.cache
+D:\DEV\Estudos_com_CSharp_e_DotNet\DotNetApi\obj\Debug\net5.0\DotNetApi.MvcApplicationPartsAssemblyInfo.cache
+D:\DEV\Estudos_com_CSharp_e_DotNet\DotNetApi\obj\Debug\net5.0\staticwebassets\DotNetApi.StaticWebAssets.Manifest.cache
+D:\DEV\Estudos_com_CSharp_e_DotNet\DotNetApi\obj\Debug\net5.0\staticwebassets\DotNetApi.StaticWebAssets.xml
+D:\DEV\Estudos_com_CSharp_e_DotNet\DotNetApi\obj\Debug\net5.0\scopedcss\bundle\DotNetApi.styles.css
+D:\DEV\Estudos_com_CSharp_e_DotNet\DotNetApi\obj\Debug\net5.0\DotNetApi.RazorTargetAssemblyInfo.cache
+D:\DEV\Estudos_com_CSharp_e_DotNet\DotNetApi\obj\Debug\net5.0\DotNetApi.csproj.CopyComplete
+D:\DEV\Estudos_com_CSharp_e_DotNet\DotNetApi\obj\Debug\net5.0\DotNetApi.dll
+D:\DEV\Estudos_com_CSharp_e_DotNet\DotNetApi\obj\Debug\net5.0\ref\DotNetApi.dll
+D:\DEV\Estudos_com_CSharp_e_DotNet\DotNetApi\obj\Debug\net5.0\DotNetApi.pdb
+D:\DEV\Estudos_com_CSharp_e_DotNet\DotNetApi\obj\Debug\net5.0\DotNetApi.genruntimeconfig.cache

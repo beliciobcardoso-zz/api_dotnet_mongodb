@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\DEV\\Estudos com CSharp e .Net\\DotNetApi\\DotNetApi.csproj": {}
+    "D:\\DEV\\Estudos_com_CSharp_e_DotNet\\DotNetApi\\DotNetApi.csproj": {}
   },
   "projects": {
-    "D:\\DEV\\Estudos com CSharp e .Net\\DotNetApi\\DotNetApi.csproj": {
+    "D:\\DEV\\Estudos_com_CSharp_e_DotNet\\DotNetApi\\DotNetApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\DEV\\Estudos com CSharp e .Net\\DotNetApi\\DotNetApi.csproj",
+        "projectUniqueName": "D:\\DEV\\Estudos_com_CSharp_e_DotNet\\DotNetApi\\DotNetApi.csproj",
         "projectName": "DotNetApi",
-        "projectPath": "D:\\DEV\\Estudos com CSharp e .Net\\DotNetApi\\DotNetApi.csproj",
+        "projectPath": "D:\\DEV\\Estudos_com_CSharp_e_DotNet\\DotNetApi\\DotNetApi.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "D:\\DEV\\Estudos com CSharp e .Net\\DotNetApi\\obj\\",
+        "outputPath": "D:\\DEV\\Estudos_com_CSharp_e_DotNet\\DotNetApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -38,9 +38,9 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "dependencies": {
-            "Swashbuckle.AspNetCore": {
+            "mongodb.driver": {
               "target": "Package",
-              "version": "[5.6.3, )"
+              "version": "[2.12.2, )"
             }
           },
           "imports": [
