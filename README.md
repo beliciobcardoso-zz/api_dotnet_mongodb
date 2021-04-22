@@ -1,6 +1,6 @@
 # Projeto DotNetAPI
 
-## Projeto Simple de uma api com MongoDB
+## Projeto Simples de uma api com MongoDB
 
 Este projeto faz parte do conteúdo da DIO digital innovation one,
 Onde aprendemos a Construir uma API em .NET Core integrada a um cluster MongoDB em tempo real no service cloud Mongo Atlas.
